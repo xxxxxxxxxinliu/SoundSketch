@@ -1,0 +1,12 @@
+X,Y,Text,Font,Color,Size,Borntime,Deadtime
+0.9,0.5,33591,enFont,#fff,16,2000,3000
+0.9,0.56,NORAD ID,enFont,#0909E3,18,4600,5000
+0.8,0.2,Int'I Code 2009-005A,enFont,#fff,16,10000,12000
+0.2,0.34,137.100/1698.000,enFont,#fff,16,15000,17000
+0.8,0.45,LAT: 6,enFont,#fff,16,20000,23000
+0.8,0.4,SPD: 7.2,enFont,#fff,16,20000,23000
+0.5,0.23,AZIMUTH,enFont,#fff,16,30000,33000
+0.2,0.44,(不含有明確縮寫可以識別),chFont,#fff,16,40000,50000
+0.5,0.15,主機時間,chFont,#fff,16,46000,55000
+
+

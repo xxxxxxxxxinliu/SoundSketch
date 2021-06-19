@@ -1,0 +1,9 @@
+X,Y,Text,Font,Color,Size,Speed,Borntime
+1,0.5,訊號連結,chFont,#fff,18,10,5000
+1,0.6,WEATHER/SNOOZE,enFont,#fff,16,8,5000
+1,0.1,訊號連結,chFont,#fff, 18, 15,9000
+1,0.67,WEATHER/SNOOZE,enFont,#fff, 16, 10,15000
+1,0.45,……[訊號接通],chFont,#fff, 18, 10,30000
+1,0.33,是誰？,chFont,#fff,25,6,45000
+
+
