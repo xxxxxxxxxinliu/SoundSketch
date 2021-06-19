@@ -82,7 +82,7 @@ function preload(){
 	enFont=loadFont('Asset/Font/Menlo-Regular.ttf');
 	chFont=loadFont("Asset/Font/I.BMing-3.500.ttf");
 
-	moveScript = loadTable("Asset/CSV/script1.csv","csv", "header");
+	moveScript = loadTable("Asset/CSV/moveScript.csv","csv", "header");
 	popScript = loadTable("Asset/CSV/popScript.csv","csv", "header");
 
 	
