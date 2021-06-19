@@ -109,7 +109,7 @@ function setup() {
 
 
 
-
+	background(0);
 
 
 
@@ -123,12 +123,13 @@ function setup() {
 
 
 	//button
-	playButton = createButton("play");
-	playButton.mousePressed(togglePlaying);
-	playButton.position(50,20);
+	//playButton = createButton("play");
+	//playButton.mousePressed(togglePlaying);
+	//playButton.position(50,20);
 
 
 	createCanvas(windowWidth, windowHeight);
+
 	//shader
     WebglCanvas = createGraphics(windowWidth,windowHeight,WEBGL);
 	pixelDensity(1);
@@ -224,6 +225,7 @@ dialogp[7] = new DialogP(windowWidth/2,windowHeight/2-400," 主機時間",chFont
 
 
 function draw() {
+	background(0);
 
 	
 
