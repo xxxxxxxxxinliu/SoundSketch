@@ -123,9 +123,9 @@ function setup() {
 
 
 	//button
-	//playButton = createButton("play");
-	//playButton.mousePressed(togglePlaying);
-	//playButton.position(50,20);
+	playButton = createButton("play");
+	playButton.mousePressed(togglePlaying);
+	playButton.position(50,20);
 
 
 	createCanvas(windowWidth, windowHeight);
