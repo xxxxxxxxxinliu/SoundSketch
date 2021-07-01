@@ -101,8 +101,8 @@ class DialogP{
 		//this.x = this.x + random(-1,1);	
 		
 		text(this.text,this.x,this.y);
-		text(this.text,this.x+10,this.y-10);
-		text(this.text,this.x-10,this.y+10);
+	//	text(this.text,this.x+10,this.y-10);
+	//	text(this.text,this.x-10,this.y+10);
 	
 	}
 	

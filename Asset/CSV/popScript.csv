@@ -6,7 +6,9 @@ X,Y,Text,Font,Color,Size,Borntime,Deadtime
 0.8,0.45,LAT: 6,enFont,#fff,16,20000,23000
 0.8,0.4,SPD: 7.2,enFont,#fff,16,20000,23000
 0.5,0.23,AZIMUTH,enFont,#fff,16,30000,33000
-0.2,0.44,(不含有明確縮寫可以識別),chFont,#fff,16,40000,50000
-0.5,0.15,主機時間,chFont,#fff,16,46000,55000
+0.2,0.44,Who is there?,enFont,#562FC8,16,40000,60000
+0.5,0.15,Who is there?,enFont,#fff,16,43000,60000
+0.1,0.23,Who is there?,enFont,#562FC8,16,44000,60000
+0.8,0.4,Who is there?,enFont,#EDBB0F,16,46000,60000
 
 

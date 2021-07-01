@@ -1,9 +1,13 @@
 X,Y,Text,Font,Color,Size,Speed,Borntime
-1,0.5,訊號連結,chFont,#fff,18,10,5000
-1,0.6,WEATHER/SNOOZE,enFont,#fff,16,8,5000
-1,0.1,訊號連結,chFont,#fff, 18, 15,9000
-1,0.67,WEATHER/SNOOZE,enFont,#fff, 16, 10,15000
-1,0.45,……[訊號接通],chFont,#fff, 18, 10,30000
-1,0.33,是誰？,chFont,#fff,25,6,45000
-
-
+1,0.5,[connecting],enFont,#9B9B9B,20,6,5000
+1,0.6,Sending data,enFont,#9B9B9B,20,6,12000
+1,0.58,Signal connection,enFont,#9B9B9B,20,6,16000
+1,0.67,[status detected],enFont,#9B9B9B,20,6,20000
+1,0.52,Measuring the target,enFont,#9B9B9B,20,6,23000
+1,0.53,No manual maintanace,enFont,#9B9B9B,20,6,25000
+1,0.54,Modulation: 2400Hz,enFont,#9B9B9B,20,6,30000
+1,0.51,Ready to receive,enFont,#9B9B9B,20,6,35000
+1,0.56,HRPT: 360 lines per min,enFont,#9B9B9B,20,6,42000
+1,0.63,APT: 120 lines per min,enFont,#9B9B9B,20,6,42000
+1,0.71,Comfirming reception,enFont,#9B9B9B,20,6,50000
+1,0.67,Receiving,enFont,#9B9B9B,20,6,60000
